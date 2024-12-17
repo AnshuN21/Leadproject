@@ -1,0 +1,17 @@
+{
+    "contacts": [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "mobile": "1234567890",
+        "city": "New York"
+      }
+    ],
+    "clients": [],
+    "footer": {
+      "text": "",
+      "buttonText": ""
+    }
+  }
+  
